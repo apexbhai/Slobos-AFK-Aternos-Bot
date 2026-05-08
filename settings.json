@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "arparajt.aternos.me:48702",
-    "port": :48702 ,
+    "ip": "arparajt.aternos.me",
+    "port": :48702,
     "version": "",
     "try-creative": false
   },
